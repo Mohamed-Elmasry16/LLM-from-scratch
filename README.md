@@ -1,6 +1,6 @@
 # LLM-from-scratch
 building all stages of  LLM from scratch
 
-![Uploading image.png…]()
+![Uploading https://drive.google.com/file/d/1Djky-bmOlctz3bTLeHPjK2e2QYo6zma9/view]()
 
 
