@@ -52,7 +52,8 @@ Tracked metrics:
 - Training loss
 - Validation loss
 
-![LLM Architecture](../images/training process.png)
+![LLM Architecture](../images/training%20process.png)
+
 
 ---
 
