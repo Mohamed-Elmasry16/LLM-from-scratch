@@ -34,9 +34,10 @@ Core building blocks implemented from scratch:
 
 These blocks are stacked to form a **decoder-only Transformer (GPT)**.
 
-![GPT-style Transformer Overview](code_snapshot.png)
+
 
 ---
+![LLM Architecture](images/cross_entropy.png)
 
 ### 4) Training Loop
 For each batch:
@@ -50,7 +51,7 @@ Tracked metrics:
 - Training loss
 - Validation loss
 
-![Training Loop Overview](A_digital_infographic_illustration_serves_as_a_vis.png)
+![LLM Architecture](images/training-process.png)
 
 ---
 
