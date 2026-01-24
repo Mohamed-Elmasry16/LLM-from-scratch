@@ -9,4 +9,10 @@ building all stages of  LLM from scratch
 ## Part 3 : GPT Architecture Implementation
 ![LLM Architecture](images/GPT-2.png)
 
+## Part 4 : # Training & Evaluating LLMs 
+![LLM Architecture](images/train.png)
+
+
+ 
+
 
