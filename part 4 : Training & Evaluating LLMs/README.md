@@ -37,7 +37,8 @@ These blocks are stacked to form a **decoder-only Transformer (GPT)**.
 
 
 ---
-![LLM Architecture](images/cross_entropy.png)
+![LLM Architecture](../images/cross_entropy.png)
+
 
 ### 4) Training Loop
 For each batch:
