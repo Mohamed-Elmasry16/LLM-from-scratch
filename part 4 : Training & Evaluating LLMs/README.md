@@ -94,6 +94,8 @@ This shows the model learned statistical patterns from training data.
 
 ## Loading Pretrained GPT-2 Weights (OpenAI)
 This notebook also supports **loading official GPT-2 pretrained weights released by OpenAI**.
+![LLM Architecture](../images/GPT_weights.png)
+
 
 ### How it works
 - Uses the provided `GPT_downloader.py` utility
