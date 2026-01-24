@@ -88,6 +88,8 @@ Example output:
 
 This shows the model learned statistical patterns from training data.
 
+![LLM Architecture](../images/tep_vs_top_k.png)
+
 ---
 
 ## Loading Pretrained GPT-2 Weights (OpenAI)
