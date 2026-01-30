@@ -12,6 +12,10 @@ building all stages of  LLM from scratch
 ## Part 4 : Training & Evaluating LLMs 
 ![LLM Architecture](images/train.png)
 
+## GPT_APP_From_P1_to_P4
+### Combine all four parts into a single project that runs on your local machine
+![LLM Architecture](images/ChatGPT_App.png)
+
 
  
 
