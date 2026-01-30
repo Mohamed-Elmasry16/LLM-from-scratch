@@ -35,18 +35,16 @@ Everything runs locally.
 
 ---
 
-## Files Included
+## 📂 Project Files
 
-├── Attention.py              # Multi-head attention
-├── Transformer_block.py      # Transformer layers
-├── GPT2_Archeticture.py      # Full GPT-2 model
-├── GPT_downloader.py         # Download GPT-2 weights
-├── Pretrainig.py            # Load pretrained weights
-├── genrate.py               # Text generation
-├── GUI.py                   # Desktop interface
-└── README.md  # This file
-
----
+- `Attention.py` – Multi-head attention module  
+- `Transformer_block.py` – Transformer layer definitions  
+- `GPT2_Architecture.py` – Full GPT-2 model implementation  
+- `GPT_downloader.py` – Script to download GPT-2 pretrained weights  
+- `Pretraining.py` – Load pretrained weights into the model  
+- `generate.py` – Text generation logic  
+- `GUI.py` – Desktop interface for the assistant  
+- `README.md` – This file
 
 ## Requirements
 
