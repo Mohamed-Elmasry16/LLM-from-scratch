@@ -16,6 +16,8 @@ building all stages of  LLM from scratch
 ### Combine all four parts into a single project that runs on your local machine
 ![LLM Architecture](images/ChatGPT_App.png)
 
+## Part 5 :GPT-2 Spam Classifier (Fine-Tuned & Deployed)
+![LLM Architecture](images/finetuning.png)
 
  
 
