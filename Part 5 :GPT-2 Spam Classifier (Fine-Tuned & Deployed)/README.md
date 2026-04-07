@@ -66,6 +66,8 @@ flowchart LR
 
 ![Prediction](screenshots/prediction_example.png)
 
+![Prediction](screenshots/prediction_example1.png)
+
 ---
 
 ## ⚙️ Installation
