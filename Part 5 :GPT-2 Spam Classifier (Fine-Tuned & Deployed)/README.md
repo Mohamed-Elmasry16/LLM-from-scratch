@@ -45,14 +45,17 @@ flowchart LR
 │   └── Attention.py
 |    
 ├── data/
-│   └── spam_dataset.csv
+│   └── validation.csv
+|   └── train.csv
+|   └── test.csv
 │
 ├── notebooks/
 │   └── classification_finetuning.ipynb
 │
 ├── screenshots/
 │   ├── app_ui.png
-│   └── prediction_example.png
+│   └── prediction_example.png (spam)
+|   └── prediction_example1.png (ham)
 │
 ├── requirements.txt
 └── README.md
