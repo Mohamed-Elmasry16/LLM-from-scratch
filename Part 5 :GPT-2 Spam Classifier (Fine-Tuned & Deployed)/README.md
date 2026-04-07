@@ -37,9 +37,13 @@ flowchart LR
 ## 🏗️ Repository Structure
 
 ```
-├── app/
-│   └── app.py
-│
+├── spam classifier app/
+|   ├── Spam_GUI.py
+|   ├── classify.py
+|   ├── GPT2_Archeticture.py
+│   └── Transformer_block.py
+│   └── Attention.py
+|    
 ├── data/
 │   └── spam_dataset.csv
 │
@@ -83,7 +87,7 @@ pip install -r requirements.txt
 ## 🚀 Run the App
 
 ```bash
-python app/app.py
+python app/Spam_GUI.py
 ```
 
 ---
